@@ -1,0 +1,4 @@
+# Load parameters
+
+DESTINATION_FOLDER="./data"
+DAYS_FORWARD=45
